@@ -1,0 +1,1 @@
+# android_device_r1q_twrp
